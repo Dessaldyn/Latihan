@@ -1,0 +1,21 @@
+.para {
+
+    font-family: 'sans-serif', 'Ubuntu';
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.8em;
+    color: red;
+    background-color: purple;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    word-spacing: 20px;
+    text-shadow: 1px 1px yellowgreen;
+    letter-spacing: 20px;
+
+}
+
+.bg {
+    background-image: url('Flower.jpg');
+
+}
